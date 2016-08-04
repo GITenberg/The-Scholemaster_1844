@@ -1,0 +1,26 @@
+_repo: The-Scholemaster_1844
+_version: 0.0.1
+alternative_title: The Schoolmaster
+creator:
+  author:
+    agent_name: Ascham, Roger
+    birthdate: 1515
+    deathdate: 1568
+    gutenberg_agent_id: '723'
+    url: http://www.gutenberg.org/2009/agents/723
+    wikipedia: http://en.wikipedia.org/wiki/Roger_Ascham
+description: HTML
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin language -- Grammar -- Early works to 1800'
+- !lcc 'PA'
+- GITenberg
+title: The Scholemaster
+url: http://www.gutenberg.org/ebooks/1844
